@@ -2,7 +2,7 @@
 <img src="http://vinniefalco.github.com/LuaBridgeDemo/powered-by-lua.png">
 </a><br>
 
-# LuaBridge 2.5
+# LuaBridge 2.6
 
 [LuaBridge][1] is a lightweight and dependency-free library for mapping data,
 functions, and classes back and forth between C++ and [Lua][2] (a powerful,
@@ -22,7 +22,6 @@ LuaBridge offers the following features:
 - Automatic function parameter type binding.
 - Easy access to Lua objects like tables and functions.
 - Written in a clear and easy to debug style.
-- Does not require C++11.
 
 Please read the [LuaBridge Reference Manual][5] for more details on the API.
 
